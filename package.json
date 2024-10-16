@@ -1,6 +1,6 @@
 {
 	"name": "clip-path-cutout",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A TypeScript function to generate clip-path CSS property values for circular cutouts in HTML elements.",
 	"main": "dist/index.js",
 	"scripts": {
