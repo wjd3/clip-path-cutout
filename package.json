@@ -1,0 +1,27 @@
+{
+	"name": "clip-path-cutout",
+	"version": "0.0.1",
+	"description": "A TypeScript function to generate clip-path CSS property values for circular cutouts in HTML elements.",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"start": "node dist/index.js",
+		"dev": "ts-node src/index.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wjd3/clip-path-cutout.git"
+	},
+	"keywords": [
+		"clip-path",
+		"cutout",
+		"css",
+		"typescript"
+	],
+	"author": "Liam Davis",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/wjd3/clip-path-cutout/issues"
+	},
+	"homepage": "https://github.com/wjd3/clip-path-cutout#readme"
+}
